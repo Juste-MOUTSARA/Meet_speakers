@@ -1,0 +1,68 @@
+ body{
+    background-color: black;
+    color: white;
+     
+    
+
+ }
+
+ .bordurehaut{
+    margin-top: 1.5%;
+    height: 3px;
+    background: linear-gradient(100deg, rgb(231, 101, 15),rgb(11, 43, 221));
+     
+       
+ }
+
+.parag{
+     text-align: center;
+     font-size: x-large;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-decoration: none;
+}
+.contenaire{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+
+ .colonnephoto{
+    background-color: rgb(241, 22, 22);
+     
+  
+    width:240px;
+    text-align: center;
+    border-radius:  20px 15px 15px 20px  ;
+   
+ }
+
+.margephoto{
+     
+    background-color: rgb(209, 30, 30);
+    width: 240px;
+    height: 250px;
+    border-radius:  20px 15px 0px 0px  ;
+    color: beige;
+}
+
+.photo1{
+    border-radius:  20px 15px 0px 0px  ;
+    
+}
+
+
+p,h3,h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* hr{
+    height: 5px;
+    background: linear-gradient(90deg, rgb(221, 11, 11),rgb(11, 43, 221))
+} */
+a{
+    text-decoration: none;
+    color: white;
+}
+
